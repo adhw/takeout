@@ -1,4 +1,4 @@
-package com.androidhw.takeout.dragger.ui.activity;
+package com.androidhw.takeout.ui.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
